@@ -9,11 +9,13 @@ Use following keyboard commands to control the cube:
 - A: move forward
 - D: move backward
 
-![My Photo](pictures/SceneView.png)
+![Scene View](pictures/SceneView.png)
 
 
-Still under construction!!
+
+### Still under construction!!
 Launching soon: A scoreboard with a counter that indicates gate crossings. 
+![Scoreboard](pictures/Scoreboard.png)
 
 
 ## Info 
