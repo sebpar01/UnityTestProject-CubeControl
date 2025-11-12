@@ -23,5 +23,5 @@ Launching soon: A scoreboard with a counter that indicates gate crossings. Curre
 Since I am using an IPhone without a Mac, i could not display my App on the phone. I am in the group with Mara & Melvin, where Mara uploaded her App on the Android and displayed it (as discussed with you).  
 
 
-## Chagnes
+## Changes
 Melvin was here
