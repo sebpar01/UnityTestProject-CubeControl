@@ -14,7 +14,7 @@ Use following keyboard commands to control the cube:
 
 
 ## Still under construction!!
-Launching soon: A scoreboard with a counter that indicates gate crossings. 
+Launching soon: A scoreboard with a counter that indicates gate crossings. Currently the counter does not work for every gate crossing reliable.
 ![Scoreboard](pictures/Scoreboard.png)
 
 
