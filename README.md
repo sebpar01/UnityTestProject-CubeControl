@@ -13,7 +13,7 @@ Use following keyboard commands to control the cube:
 
 
 
-### Still under construction!!
+## Still under construction!!
 Launching soon: A scoreboard with a counter that indicates gate crossings. 
 ![Scoreboard](pictures/Scoreboard.png)
 
