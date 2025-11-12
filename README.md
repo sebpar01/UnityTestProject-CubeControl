@@ -19,4 +19,4 @@ Launching soon: A scoreboard with a counter that indicates gate crossings.
 
 
 ## Info 
-Since I am using an IPhone without a Mac, i could not display my App on the phone. I am in the group with Mara & Melvin, where Mara uploaded her App und the Android and displayed it (as discussed with you).  
+Since I am using an IPhone without a Mac, i could not display my App on the phone. I am in the group with Mara & Melvin, where Mara uploaded her App on the Android and displayed it (as discussed with you).  
